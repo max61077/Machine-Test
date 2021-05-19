@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "TestApp",
+    "slug": "TestApp",
+    "icon": "./assets/icon.png",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "sdkVersion": "41.0.0",
+    "android": {
+      "package": "com.Max12.TestApp",
+      "versionCode": 1
+    },
+    "description": "",
+    "ios": {
+      "bundleIdentifier": "com.Max12.TestApp"
+    }
+  }
+}
